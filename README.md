@@ -3,3 +3,4 @@
 _**Practicals Added:**_<br />
 Week 1 - 3 questions<br />
 Week 2 - 3 questions<br />
+_FizzBuzz game solution_<br />
